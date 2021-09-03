@@ -19,4 +19,5 @@
     <string name="minus">-</string>
     <string name="plus">+</string>
     <string name="ravno">=</string>
+    <string name="text_view">текст</string>
 </resources>
